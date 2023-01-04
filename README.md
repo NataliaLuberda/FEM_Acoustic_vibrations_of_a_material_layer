@@ -3,7 +3,7 @@ Differential and difference equations - project 2022/2023.
 
 <p align="center">
   <a href="" rel="noopener">
-    <img width=200px height=200px src="Równanie problemu.png" alt="Project logo">
+    <img width=600px height=200px src="Równanie problemu.png" alt="Project logo">
   </a>
 </p>
 
