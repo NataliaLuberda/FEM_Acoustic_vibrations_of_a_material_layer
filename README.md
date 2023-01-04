@@ -41,7 +41,13 @@ To równanie opisuje problem związany z wibracjami akustycznymi warstwy materia
 ## ⛏️ Built Using <a name = “built_using”></a>
 Projekt został stworzony w języku programowania Java z użyciem biblioteki JavaFX
 
-# :brain: Example:  <a name = “example”></a>
+## :brain: Example:  <a name = “example”></a>
+
+<p align="center">
+  <a href="" rel="noopener">
+    <img width=600px height=200px src="Example.png" alt="Project logo">
+  </a>
+</p>
 
 
 ## ✍️ Authors <a name = “authors”></a>
