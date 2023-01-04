@@ -21,6 +21,11 @@ Differential and difference equations - project 2022/2023.
 - [Built Using](#built_using)
 - [Authors](#authors)
 
+
+## :point_right: Calculations
+
+Mathematical paper with calculations used to obtain matrix form of the problem can be found [in this pdf](Zadanie Obliczeniowe.pdf).
+
 ## 🧐 About <a name = “about”></a>
 To równanie opisuje problem związany z wibracjami akustycznymi warstwy materiału. Równanie to jest równaniem różniczkowym cząstkowym drugiego rzędu z warunkami brzegowymi na granicach przedziału [0, 2]. Można go rozwiązać przy użyciu różnych metod numerycznych, takich jak metoda elementów skończonych, która jest implementowana w podanym kodzie.
 
