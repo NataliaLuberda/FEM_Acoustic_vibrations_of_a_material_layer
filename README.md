@@ -3,13 +3,10 @@ Differential and difference equations - project 2022/2023.
 
 <p align=”center”>
 <a href=”” rel=”noopener”>
-<img width=200px height=200px src=”” alt=”Project logo”></a>
-</p>![Zrzut ekranu 2023-01-04 192325](https://user-images.githubusercontent.com/115657578/210623574-8dd05ac8-e703-43d0-b799-9d6700ee6a70.png)
 
 
 
 <h3 align=”center”></h3>
-MES - Wibracje akustyczne warstwy materiału
 — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — -
 
 <p align=”center”> 
