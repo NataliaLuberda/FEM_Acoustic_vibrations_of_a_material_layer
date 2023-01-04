@@ -1,12 +1,13 @@
 # FEM_Acoustic_vibrations_of_a_material_layer
 Differential and difference equations - project 2022/2023.
 
-<p align=”center”>
-<a href=”” rel=”noopener”>
+<p align="center">
+  <a href="" rel="noopener">
+    <img width=200px height=200px src="Równanie problemu.png" alt="Project logo">
+  </a>
+</p>
 
-
-
-<h3 align=”center”></h3>
+<h3 align="center"></h3>
 — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — -
 
 <p align=”center”> 
