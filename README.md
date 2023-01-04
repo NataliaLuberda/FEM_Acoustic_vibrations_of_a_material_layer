@@ -16,13 +16,17 @@ Differential and difference equations - project 2022/2023.
 
 ## 📝 Table of Contents
 
+- [Calculations](#calculations)
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Built Using](#built_using)
+- [Example](#example)
 - [Authors](#authors)
 
 
-## :point_right: Calculations
+
+
+## :point_right: Calculations <a name = “calculations”></a>
 
 Mathematical paper with calculations used to obtain matrix form of the problem can be found [in this pdf](Zadanie Obliczeniowe.pdf).
 
@@ -36,6 +40,9 @@ To równanie opisuje problem związany z wibracjami akustycznymi warstwy materia
 
 ## ⛏️ Built Using <a name = “built_using”></a>
 Projekt został stworzony w języku programowania Java z użyciem biblioteki JavaFX
+
+# :brain: Example:  <a name = “example”></a>
+
 
 ## ✍️ Authors <a name = “authors”></a>
 Natalia Luberda
