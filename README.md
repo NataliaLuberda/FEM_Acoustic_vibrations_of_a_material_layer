@@ -42,10 +42,11 @@ To równanie opisuje problem związany z wibracjami akustycznymi warstwy materia
 Projekt został stworzony w języku programowania Java z użyciem biblioteki JavaFX
 
 ## :brain: Example:  <a name = “example”></a>
+Przykład dla N = 20:
 
 <p align="center">
   <a href="" rel="noopener">
-    <img width=600px height=200px src="Example.png" alt="Project logo">
+    <img width=800px height=500px src="Example.png" alt="Project logo">
   </a>
 </p>
 
